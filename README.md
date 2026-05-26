@@ -1,10 +1,8 @@
 # Hey Explorer.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=600&color=FFFFFFB1&center=true&vCenter=true&random=true&width=435&lines=I+eat+JavaScript;Cannot+center+a+div)](https://git.io/typing-svg)
 
 <br>This is Grishma.
-<br>A Tech Enthusiast and a Curious Learner specializing in JavaScript & NodeJS environment.<br>Getting a Hold of the Rust Programming Language.
-<br> "where theres a will theres a way" mentality.
+<br>A Tech Enthusiast and a Curious Learner specializing in JavaScript & NodeJS environment who also happens to be a Rustacean...
 <br><br>Anyways, Have a good day.
 
 
