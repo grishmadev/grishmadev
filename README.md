@@ -3,13 +3,7 @@
 
 <br>I'm **Grishma**.
 <br>"Where's your sword?" - Here they are, JavaScript and Rust. Where's yours
-<ul>
-<br>Let's be friends if
-  <li>You're an Evangelian Specialist</li>
-  <li>You enjoy Piss in the Wind</li>
-  <li>You're Borderline Delusional</li>
-  <li>You wanna be friends</li>
-</ul>
+
 
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:grishmadev@proton.me) 
